@@ -1,10 +1,10 @@
 # linux_stlr
 
 A linux stealer with support for:
-- firefox based browsers
+- gecko based browsers
 - chrome based browsers
-- common files names
-- gathering host information
+- sensitive files
+- host information
 - ssh keys
 - remmina
 - pidgin
